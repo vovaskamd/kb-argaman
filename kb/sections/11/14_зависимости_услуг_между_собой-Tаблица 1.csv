@@ -1,0 +1,14 @@
+service_id;depends_on_service_id;dependency_type;comment
+Magnets;stills;required;
+Blocks;stills;required;
+stills;stills;required;
+Video;;;
+Photo-box-selfie;;;
+Catering;;;
+Branding;;;
+Balloons;;;
+planning_events;;;
+Album;stills;required;
+Games;;;
+Flowers;;;
+table_rent;;;
