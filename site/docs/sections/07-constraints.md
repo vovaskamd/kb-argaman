@@ -29,6 +29,3 @@ source: "outline"
   שירותים מותרים: Magnets, Blocks, stills, Video, Photo-box-selfie, Catering, Branding, Balloons, Album
   תנאי עבור Catering: Если зал торжеств и или ресторан тогда не предлогать. Но если это синагога - предлогать
 ## סוף נתוני CSV
-
-כללים נוספים:
-- בלוקים מעץ: מעל 60 יחידות נדרש חותך.

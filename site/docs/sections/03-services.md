@@ -79,7 +79,7 @@ source: "outline"
   דורש צלם: לא
   דורש צוות: כן
 - עיצוב בלונים (Balloons)
-  שם לתצוגה ללקוח: עיצוב בלונים, קיר צילום, קיר בלונים, קשת כניסה
+  שם לתצוגה ללקוח: קיר בלונים, בלונים, עיצוב בלונים
   מתאים לאירועים: brit_mila, pidyon_haben, brita, bar_mitzvah_party, bat_mitzvah_party, aliyah_torah_synagogue, birthday_child, birthday_adult, proposal, hafrashat_hallah, henna, wedding, school_graduation, work_team_day, conference, lecture, ceremony, bachelorette_party, bachelor_party, torah_scroll_dedication
   דורש צלם: לא
   דורש צוות: כן
@@ -111,7 +111,3 @@ source: "outline"
 
 תפקידים פנימיים (צילום/מגנטים):
 - חותך: עורך מגנטים ועוזר לצלם. התפקיד המרכזי הוא עיבוד והדפסת תמונות למגנטים. עובד \"מאחורי הקלעים\" ולא נראה באירוע.
-
-בלוקים מעץ:
-- נמכרים לפי כמות.
-- מעל 60 בלוקים נדרש חותך.
