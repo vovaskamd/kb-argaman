@@ -169,8 +169,18 @@
 
 ## 22. Инвентарь (Backend)
 
-- Файл: kb/sections/inventory.md
+- Файл: kb/sections/22-inventory.md
 
 ## 23. Поставщики (расходники)
 
-- Файл: kb/sections/suppliers.md
+- Файл: kb/sections/23-suppliers.md
+
+## 24. Инструкции (справочник)
+
+### 24. Инструкции — шарики
+
+- Файл: kb/sections/24-instructions-balloons.md
+
+### 25. Инструкции — фото/видео
+
+- Файл: kb/sections/25-instructions-magnets.md
