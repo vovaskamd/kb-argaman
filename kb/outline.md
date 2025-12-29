@@ -188,3 +188,11 @@
 ### 25. Инструкции — фото/видео
 
 - Файл: kb/sections/25-instructions-magnets.md
+
+## 26. Закупочные цены
+
+- Файл: kb/sections/26-costs-consumables.md
+
+## 27. Сценарии общения (бот)
+
+- Файл: kb/sections/27-scenarios.md
