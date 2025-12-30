@@ -7,6 +7,9 @@ node_modules/
 kb/chats whatsapp/
 kb/private/
 
+kb/vector_upload/
+kb/vector_upload.csv
+
 dist/
 build/
 .next/
