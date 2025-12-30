@@ -5,6 +5,7 @@ node_modules/
 **/node_modules/
 
 kb/chats whatsapp/
+kb/private/
 
 dist/
 build/
