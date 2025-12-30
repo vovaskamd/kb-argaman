@@ -151,7 +151,7 @@ title: Outline
 - Оплата
 - Сроки
 - Ответственность
-- Файл: kb/sections/18-subcontractors-details.md
+- Файл: kb/sections/18-subcontractors.md
 
 ## 19. Контент и маркетинг
 
