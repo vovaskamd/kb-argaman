@@ -1,0 +1,48 @@
+{
+  "name": "Argaman.co",
+  "currency": "ILS",
+  "services": [
+    "stills",
+    "video",
+    "magnets_on_site",
+    "balloons_design",
+    "photo_booth",
+    "catering"
+  ],
+  "packages": [
+    {
+      "id": "brit_photo",
+      "event": "brit_mila",
+      "name_he": "חבילת צילום לברית",
+      "price_ils": 1500,
+      "includes": [
+        "Unlimited stills during the event",
+        "Unlimited magnets (7.5x10)",
+        "Video of the brit ceremony",
+        "6 large magnets (15x20)",
+        "4 wood blocks",
+        "Photo gallery link"
+      ]
+    },
+    {
+      "id": "brit_combo",
+      "event": "brit_mila",
+      "name_he": "חבילה משולבת (צילום ובלונים)",
+      "price_ils": 2500,
+      "includes": [
+        "All items in brit_photo",
+        "Balloon wall ~3.5m (photo corner), colors, props"
+      ]
+    }
+  ],
+  "constraints": [
+    "Magnets require a table and an electrical outlet.",
+    "Balloons require setup time and an electrical outlet.",
+    "Outdoor balloon walls depend on wind/conditions."
+  ],
+  "source_of_truth": [
+    "kb/sections/05-packages.md",
+    "kb/sections/06-pricing.md"
+  ],
+  "website": "https://argaman.co"
+}

@@ -1,0 +1,40 @@
+# Argaman.co — Services & Pricing (machine-readable)
+
+Language: Hebrew/English mixed (prices in ILS).
+Currency: ILS (₪).
+
+## Services
+- Event photography (stills)
+- Event video (as add-on)
+- On-site printed photo magnets
+- Balloons / photo corner design
+- Photo booth (selfie station)
+- Catering (availability depends on venue)
+
+## Packages
+
+### Brit Mila (ברית מילה)
+
+Package: חבילת צילום לברית (פופולרית)
+- Price: ₪1500
+- Includes:
+  - Unlimited stills during the event
+  - Unlimited magnets (7.5x10)
+  - Video of the brit ceremony
+  - 6 large magnets (15x20)
+  - 4 wood blocks
+  - Link to photo gallery
+
+Package: חבילה משולבת (מומלץ ביותר) – ברית מילה
+- Price: ₪2500
+- Includes:
+  - All items in the photography package above
+  - Balloon wall ~3.5m + colors + props (photo corner)
+
+## Notes / Constraints
+- Magnets require a table and an electrical outlet.
+- Balloons require time for setup and an electrical outlet (inflation).
+- Outdoor balloon walls depend on wind/conditions.
+
+## Contact
+Website: https://argaman.co
